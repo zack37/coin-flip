@@ -1,0 +1,22 @@
+{
+  "name": "coin-flip",
+  "version": "1.0.0",
+  "description": "Flip a coin n times with optional results for heads and tails",
+  "main": "index.js",
+  "bin": {
+    "flip": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coin",
+    "flip"
+  ],
+  "author": "Zack Smith",
+  "license": "ISC",
+  "dependencies": {
+    "optionator": "^0.8.2",
+    "random-js": "^1.0.8"
+  }
+}

@@ -1,0 +1,35 @@
+[
+	{
+		"option": "help",
+		"type": "Boolean",
+		"description": "Displays this message"
+	},
+	{
+		"option": "debug",
+		"alias": "d",
+		"type": "Boolean",
+		"default": "false",
+		"hidden": true
+	},
+	{
+		"option": "times",
+		"alias": "n",
+		"type": "Number",
+		"description": "Number of times to flip the coin",
+		"default": "1"
+	},
+	{
+		"option": "heads",
+		"alias": "h",
+		"type": "String",
+		"description": "Value for heads",
+		"default": "heads"
+	},
+	{
+		"option": "tails",
+		"alias": "t",
+		"type": "String",
+		"description": "Value for tails",
+		"default": "tails"
+	}
+]
