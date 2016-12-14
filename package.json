@@ -15,6 +15,10 @@
   ],
   "author": "Zack Smith",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zack37/coin-flip.git"
+  },
   "dependencies": {
     "optionator": "^0.8.2",
     "random-js": "^1.0.8"
